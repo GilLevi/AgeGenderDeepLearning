@@ -14,12 +14,6 @@ else
   RESIZE_WIDTH=0
 fi
 
-if [ ! -d "$DATA" ]; then
-  echo "Error: DATA is not a path to a directory: $DATA"
-  echo "Set the DATA variable in create_imagenet.sh to the path" \
-       "where the ImageNet training data is stored."
-  exit 1
-fi
 
 
 
