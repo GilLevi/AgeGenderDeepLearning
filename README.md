@@ -7,7 +7,7 @@ Gil Levi and Tal Hassner, Age and Gender Classification Using Convolutional Neur
 
 Project page: http://www.openu.ac.il/home/hassner/projects/cnn_agegender/
 
-If you find our models useful, please add suitable reference to our paper in your work.
+If you find our models or code useful, please add suitable reference to our paper in your work.
 
 
 ---
