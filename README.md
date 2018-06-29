@@ -16,6 +16,8 @@ Gil Levi and Tal Hassner, Emotion Recognition in the Wild via Convolutional Neur
 
 If you find our models or code useful, please add suitable reference to our paper in your work.
 
+Also see TensorFlow implementation of our work by Rude Carnie: https://github.com/dpressel/rude-carnie 
+
 
 ---
 Copyright 2015, Gil Levi and Tal Hassner 
